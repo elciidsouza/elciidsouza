@@ -1,9 +1,15 @@
 ### Olá, tudo bem? 👋
 Apaixonado por tecnologia e resolução de problemas. Busco cada vez mais qualificações e melhorias pessoais.
 
-- ⚡ Domínio no front-end e back-end.
-- 🤔 Entusiasta de engenharia de software.
-- 💬 Inglês intermediário.
+<p width="50%">
+  - ⚡ Domínio no front-end e back-end.
+  - 🤔 Entusiasta de engenharia de software.
+  - 💬 Inglês intermediário.
+</p>
+
+<p width="50%">
+  Teste
+</p>
 
 ### Skills
 <p float="left">
