@@ -1,11 +1,12 @@
 ### Olá, tudo bem? 👋
 Apaixonado por tecnologia e resolução de problemas. Busco cada vez mais qualificações e melhorias pessoais.
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 - ⚡ Domínio no front-end e back-end.
 - 🤔 Entusiasta de engenharia de software.
 - 💬 Inglês intermediário.
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+- <a href="https://drive.google.com/file/d/1XwBaFIUWK5XZe71hqxeKTnBEv2EJWra4/view?usp=sharing" target="_blank">📝 Currículo.</a>
 
 ### Skills
 <p float="left">
