@@ -6,7 +6,7 @@ Apaixonado por tecnologia e resolução de problemas. Busco cada vez mais qualif
 
 ### Skills
 ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg =18x18)
-![php](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg =18x18)
+![php](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
 
 
 <!--
