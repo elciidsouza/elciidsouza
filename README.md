@@ -1,5 +1,12 @@
 ### Olá, tudo bem? 👋
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+Apaixonado por tecnologia e resolução de problemas. Busco cada vez mais qualificações e melhorias pessoais.
+
+- ⚡ Domínio no front-end e back-end.
+- 🤔 Entusiasta de engenharia de software.
+
+### Skills
+![alt text](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
+
 
 <!--
 **elciidsouza/elciidsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
