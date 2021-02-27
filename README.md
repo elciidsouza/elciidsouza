@@ -3,6 +3,7 @@ Apaixonado por tecnologia e resolução de problemas. Busco cada vez mais qualif
 
 - ⚡ Domínio no front-end e back-end.
 - 🤔 Entusiasta de engenharia de software.
+- 💬 Inglês intermediário.
 
 ### Skills
 <p float="left">
