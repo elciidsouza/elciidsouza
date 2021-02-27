@@ -1,15 +1,11 @@
 ### Olá, tudo bem? 👋
 Apaixonado por tecnologia e resolução de problemas. Busco cada vez mais qualificações e melhorias pessoais.
 
-<p width="50%">
-  - ⚡ Domínio no front-end e back-end.
-  - 🤔 Entusiasta de engenharia de software.
-  - 💬 Inglês intermediário.
-</p>
+- ⚡ Domínio no front-end e back-end.
+- 🤔 Entusiasta de engenharia de software.
+- 💬 Inglês intermediário.
 
-<p width="50%">
-  Teste
-</p>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### Skills
 <p float="left">
