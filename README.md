@@ -7,7 +7,12 @@ Apaixonado por tecnologia e resolução de problemas. Busco cada vez mais qualif
 ### Skills
 <p float="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="30" height="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="30" height="30">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" width="30" height="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="30" height="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" width="30" height="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30" height="30">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="30" height="30">
 </p>
 
 
