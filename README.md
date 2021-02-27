@@ -23,7 +23,7 @@ Apaixonado por tecnologia e resolução de problemas. Busco cada vez mais qualif
 ### Redes Sociais
 <p float="left">
   <a href="https://www.linkedin.com/in/elciidsouza/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" width="30" height="30">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" width="40" height="40">
   </a>
 </p>
 
