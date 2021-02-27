@@ -1,7 +1,7 @@
 ### Olá, tudo bem? 👋
 Apaixonado por tecnologia e resolução de problemas. Busco cada vez mais qualificações e melhorias pessoais.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/elciidsouza/elciidsouza/main/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/elciidsouza/elciidsouza/main/coding.gif" width="500" height="320" />
 
 - ⚡ Domínio no front-end e back-end.
 - 🤔 Entusiasta de engenharia de software.
