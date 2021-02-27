@@ -5,7 +5,7 @@ Apaixonado por tecnologia e resolução de problemas. Busco cada vez mais qualif
 - 🤔 Entusiasta de engenharia de software.
 
 ### Skills
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg =18x18)
+![test](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg){:height="24px" width="48px"}
 ![php](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
 
 
