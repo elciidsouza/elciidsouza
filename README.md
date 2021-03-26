@@ -1,13 +1,15 @@
 ### Olá, tudo bem? 👋
-### Hello, how are you?
+<p style="font-size:10px;">
+  Hello, how are you?
+</p>
 Apaixonado por tecnologia e resolução de problemas. Busco cada vez mais qualificações e melhorias pessoais.<br>
 Passionate about technology and problem solving. I seek more and more qualifications and personal improvements.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/elciidsouza/elciidsouza/main/coding.gif" width="500" height="320" />
 
-- ⚡ Domínio no front-end e back-end.
-- 🤔 Entusiasta de engenharia de software.
-- 💬 Inglês intermediário.
+- ⚡ Domínio no front-end e back-end / Domain in front-end and back-end;
+- 🤔 Entusiasta de engenharia de software e IA / Software engineering enthusiast and IA;
+- 💬 Inglês intermediário / Intermediary English
 - <a href="https://drive.google.com/file/d/1XwBaFIUWK5XZe71hqxeKTnBEv2EJWra4/view?usp=sharing" target="_blank">📝 Currículo.</a>
 
 ### Skills
