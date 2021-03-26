@@ -1,5 +1,5 @@
 ### Olá, tudo bem? 👋
-<p style="font-size:10px;">
+<p style="font-size:4px;">
   Hello, how are you?
 </p>
 Apaixonado por tecnologia e resolução de problemas. Busco cada vez mais qualificações e melhorias pessoais.<br>
