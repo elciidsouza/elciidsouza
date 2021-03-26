@@ -2,7 +2,6 @@
 Apaixonado por tecnologia e resolução de problemas. Busco cada vez mais qualificações e melhorias pessoais.
 <br>
 Passionate about technology and problem solving. I seek more and more qualifications and personal improvements.
-<font color='red'>test blue color font</font>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/elciidsouza/elciidsouza/main/coding.gif" width="500" height="320" />
 
