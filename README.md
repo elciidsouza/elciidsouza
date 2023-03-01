@@ -8,7 +8,7 @@ Passionate about technology and problem solving. I seek more and more qualificat
 - ⚡ Domínio no front-end e back-end / Domain in front-end and back-end;
 - 🤔 Entusiasta de engenharia de software e IA / Software engineering enthusiast and IA;
 - 💬 Inglês intermediário / Intermediary English
-- <a href="https://docs.google.com/document/d/1Piq2ve8RoqYA9OQOUuIP3sArvzJ-DuWlV6tFVrk5S_Y/edit?usp=sharing" target="_blank">📝 Currículo / Resume</a>
+- <a href="https://drive.google.com/file/d/1UmaAY2ivwyXauOiHfdThxYRvE4iL53FH/view?usp=share_link" target="_blank">📝 Currículo / Resume</a>
 
 ### Skills
 <p float="left">
